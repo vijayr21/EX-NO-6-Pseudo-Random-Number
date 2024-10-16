@@ -3,15 +3,15 @@
 # AIM: 
 
 Implementation of Pseudorandom Number Generation Using Standard library
-ALGORITHM:
-```
+# ALGORITHM:
+
 1.Start the program and import the required libraries.
 2.Seed the random number generator using the current time (i.e) rand(time(0));
 3.Get the number of random numbers to generate.
 4.Pass the value for number of iterations and print the numbers.
 5.End the program.
-```
-PROGRAM:
+
+# PROGRAM:
 ```
 #include <stdio.h>
 unsigned long seed = 123456789;
@@ -46,7 +46,7 @@ printf("%lu\n", scaled_number);
 return 0;
 }
 ```
-OUTPUT:
+ # OUTPUT:
 ![Screenshot 2024-10-16 124318](https://github.com/user-attachments/assets/e97c6205-4b53-49eb-a3e5-f4652299d34b)
 
 
