@@ -52,6 +52,9 @@ return 0;
 ```
  # OUTPUT:
 ![Screenshot 2024-10-16 124318](https://github.com/user-attachments/assets/e97c6205-4b53-49eb-a3e5-f4652299d34b)
+# RESULT:
+The Implementation of Pseudorandom Number Generation Using Standard library is
+successful.
 
 
 
