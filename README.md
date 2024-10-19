@@ -30,7 +30,7 @@ int main()
 {
 int n;
 unsigned long min, max;
-printf("SUBMITTED BY: HARINI N - 212223040057\n");
+printf("SUBMITTED BY: VIJAY R - 212223240178\n");
 printf("Enter the number of random numbers to generate: ");
 scanf("%d", &n);
 printf("Enter the minimum value: ");
@@ -51,7 +51,8 @@ return 0;
 }
 ```
  # OUTPUT:
-![Screenshot 2024-10-16 124318](https://github.com/user-attachments/assets/e97c6205-4b53-49eb-a3e5-f4652299d34b)
+![Screenshot 2024-10-16 001600](https://github.com/user-attachments/assets/0d9571dd-c595-4e80-af63-2cd36230cd88)
+
 # RESULT:
 The Implementation of Pseudorandom Number Generation Using Standard library is
 successful.
